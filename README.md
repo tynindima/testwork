@@ -1,3 +1,3 @@
 # testwork
-https://your-name.github.io/your-repo/
-https://github.com/your-name/your-repo/pull/1/files 
+..*[Previev](https://github.com/tynindima/testwork)
+..*[Pull request](../pulls)
